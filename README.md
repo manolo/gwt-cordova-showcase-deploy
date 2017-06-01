@@ -21,7 +21,7 @@ Clone and compile the gwt-cordova showcase project.
      
 Copy the compilation result in this project
 
-     $ cp folder_of_gwt_cordova_showcase/target/gwt-cordova-demo/gwtcordovashowcase www/
+     $ cp -r folder_of_gwt_cordova_showcase/target/gwt-cordova-demo/gwtcordovashowcase www/
 
  
  
